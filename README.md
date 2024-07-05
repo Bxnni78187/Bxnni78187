@@ -1,4 +1,5 @@
-## Hi there 👋
+##My README file (i guess)
+
 
 <!--
 **Bxnni78187/Bxnni78187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details id=0 open>
+<summary><h2>About me</h2></summary>
+- I program in Python
+</details>
