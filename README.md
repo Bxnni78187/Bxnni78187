@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 <details id=0 open>
 <summary><h2>About me</h2></summary>
-- I program in Python
+
 </details>
